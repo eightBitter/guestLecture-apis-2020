@@ -7,9 +7,8 @@ revealOptions:
 
 # Introduction to APIs and JSON
 
-[go.ncsu.edu/introapis](http://go.ncsu.edu/introapis)
+<https://github.com/eightBitter/guestLecture-apis-2020>
 
-TODO change link when you get a link to GitHub repository
 ---
 
 ## Outline
